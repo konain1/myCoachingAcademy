@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className='navbar'>
 
-    <div className='navbar__logo'>logoSection</div>
+    <div className='navbar__logo'>MyAcademy</div>
     <div className='navbar__nav'>
     <ul>
     <li>English</li>
